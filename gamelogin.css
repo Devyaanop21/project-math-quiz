@@ -1,0 +1,18 @@
+body
+{
+    background-image:url('Add\ a\ heading.jpg');
+     background-size: 1600px;
+}
+html
+{
+color-scheme:whitesmoke;
+
+}
+div
+{
+    text-align: center;
+    background-color: black;
+    border-color: whitesmoke;
+    opacity: 0.5;
+    
+}
